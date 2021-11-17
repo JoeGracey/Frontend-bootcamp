@@ -1,2 +1,2 @@
 # Frontend-bootcamp
-Using Bootstrap 5
+Traversy Media tutorial Using Bootstrap 5
